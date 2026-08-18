@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+}
+
+.header {
+    text-align: center;
+}
+
+.title {
+    font-family: 'Brush Script MT', 'Comic Sans MS', cursive;
+    font-size: 42px;
+    color: #6b0b72;
+    margin: 0;
+}
+
+.subtitle {
+    text-align: left;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.divider {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+.box {
+    border: 2px solid #6b0b72;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.box-title {
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.media-img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
